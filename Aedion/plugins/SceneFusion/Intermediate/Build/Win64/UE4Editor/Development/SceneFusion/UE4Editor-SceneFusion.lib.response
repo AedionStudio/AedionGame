@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SceneFusion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Intermediate\Build\Win64\Build420Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Module.SceneFusion.cpp.obj"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Module.SceneFusion.gen.cpp.obj"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\PCLaunch.rc.res"
+/OUT:"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\UE4Editor-SceneFusion.lib"

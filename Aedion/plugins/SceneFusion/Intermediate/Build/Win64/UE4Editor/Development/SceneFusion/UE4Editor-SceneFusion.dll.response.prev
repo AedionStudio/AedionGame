@@ -1,0 +1,89 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Intermediate\Build\Win64\Build420Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Module.SceneFusion.cpp.obj"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Module.SceneFusion.gen.cpp.obj"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\PCLaunch.rc.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\ThirdParty\SceneFusionAPI\Libraries/SceneFusionAPI.lib"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\ThirdParty\SceneFusionAPI\Libraries/KSCommon.lib"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\ThirdParty\SceneFusionAPI\Libraries/KSNetworking.lib"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\ThirdParty\SceneFusionAPI\Libraries/KSLZMA.lib"
+"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\ThirdParty\SceneFusionAPI\Libraries/Reactor.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\EditorStyle\UE4Editor-EditorStyle.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Kismet\UE4Editor-Kismet.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Development\Paper2D\UE4Editor-Paper2D.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\HTTP\UE4Editor-HTTP.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Json\UE4Editor-Json.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\JsonUtilities\UE4Editor-JsonUtilities.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\AppFramework\UE4Editor-AppFramework.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\RawMesh\UE4Editor-RawMesh.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\VREditor\UE4Editor-VREditor.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Networking\UE4Editor-Networking.lib"
+/OUT:"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Binaries\Win64\UE4Editor-SceneFusion.dll"
+/IMPLIB:"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\UE4Editor-SceneFusion.suppressed.lib"
+/PDB:"C:\Users\Alyosha\Documents\Unreal Projects\Build420\Plugins\KinematicSoup\SceneFusion\Binaries\Win64\UE4Editor-SceneFusion.pdb"
+/ignore:4078

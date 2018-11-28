@@ -1,0 +1,1736 @@
+﻿Log file open, 11/28/18 16:17:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Aedion
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.330141
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SceneFusion
+LogStreaming: Display: Took  0.162s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.28-15.17.47:500][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-15.17.47:500][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.28-15.17.47:516][  0]LogHAL: Display: Platform has ~ 32 GB [34184097792 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.28-15.17.47:516][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.28-15.17.47:516][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.28-15.17.47:517][  0]LogInit: Computer: DESKTOP-4SI7KRC
+[2018.11.28-15.17.47:517][  0]LogInit: User: pijel
+[2018.11.28-15.17.47:517][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.28-15.17.47:517][  0]LogInit: High frequency timer resolution =3.906244 MHz
+[2018.11.28-15.17.47:517][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2018.11.28-15.17.47:517][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.28-15.17.47:517][  0]LogMemory: Process Physical Memory: 100.78 MB used, 100.78 MB peak
+[2018.11.28-15.17.47:517][  0]LogMemory: Process Virtual Memory: 89.59 MB used, 89.59 MB peak
+[2018.11.28-15.17.47:517][  0]LogMemory: Physical Memory: 8199.80 MB used,  24400.70 MB free, 32600.50 MB total
+[2018.11.28-15.17.47:517][  0]LogMemory: Virtual Memory: 4638.80 MB used,  24400.70 MB free, 134217728.00 MB total
+[2018.11.28-15.17.47:578][  0]LogInit: Using OS detected language (en-US).
+[2018.11.28-15.17.47:578][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.28-15.17.47:580][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.28-15.17.47:963][  0]LogStreaming: Display: Took  0.385s to InitEngineTextLocalization.
+[2018.11.28-15.17.47:963][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.28-15.17.48:016][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.28-15.17.48:016][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.28-15.17.48:573][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.28-15.17.48:573][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.28-15.17.48:726][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.11.28-15.17.48:726][  0]LogD3D11RHI:       4053/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.28-15.17.48:760][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.11.28-15.17.48:760][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.28-15.17.48:882][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.11.28-15.17.48:882][  0]LogD3D11RHI:       4053/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.11.28-15.17.48:895][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.28-15.17.48:895][  0]LogD3D11RHI:       0/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.28-15.17.48:895][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.28-15.17.48:916][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.28-15.17.48:916][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.28-15.17.48:916][  0]LogWindows: EnumDisplayDevices:
+[2018.11.28-15.17.48:916][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.11.28-15.17.48:916][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.11.28-15.17.48:917][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.28-15.17.48:917][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.28-15.17.48:918][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.28-15.17.48:918][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.28-15.17.48:919][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.28-15.17.48:919][  0]LogWindows:    7. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.28-15.17.48:919][  0]LogWindows:    8. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.11.28-15.17.48:920][  0]LogWindows:    9. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.11.28-15.17.48:920][  0]LogWindows:    10. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.11.28-15.17.48:921][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2018.11.28-15.17.48:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.11.28-15.17.48:921][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.11.28-15.17.48:921][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.11.28-15.17.48:921][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.28-15.17.49:046][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.28-15.17.49:092][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.28-15.17.49:192][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (F:/Aedion Studio/AedionGame/Aedion/Intermediate/Shaders/WorkingDirectory/4048/).
+[2018.11.28-15.17.49:192][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pijel/AppData/Local/Temp/UnrealShaderWorkingDir/EA1A7C00408954971EEA31A5A04653CB/'.
+[2018.11.28-15.17.49:958][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.28-15.17.49:981][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.28-15.17.50:011][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.28-15.17.50:038][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.28-15.17.50:064][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.28-15.17.50:081][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.28-15.17.50:108][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.28-15.17.50:133][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.28-15.17.50:145][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.28-15.17.50:275][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-15.17.50:279][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.28-15.17.50:367][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-15.17.50:367][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-15.17.50:404][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-15.17.50:404][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-15.17.50:421][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.28-15.17.50:443][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.28-15.17.50:460][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.28-15.17.50:483][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.28-15.17.50:499][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.28-15.17.50:499][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.28-15.17.50:629][  0]LogXGEController: Cleaning working directory: C:/Users/pijel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.28-15.17.50:629][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.28-15.17.50:629][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.28-15.17.50:629][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.28-15.17.51:522][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.28-15.17.51:617][  0]LogDerivedDataCache: Loaded boot cache 0.10s 72MB C:/Users/pijel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-15.17.51:618][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pijel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.28-15.17.51:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Aedion Studio/AedionGame/Aedion/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.28-15.17.51:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.28-15.17.51:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Aedion Studio/AedionGame/Aedion/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.28-15.17.51:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.28-15.17.51:632][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.28-15.17.51:646][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pijel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.28-15.17.51:646][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.28-15.17.51:646][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.28-15.17.51:665][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.28-15.17.51:667][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.28-15.17.51:668][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.28-15.17.51:764][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.11.28-15.17.52:157][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-15.17.52:354][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.28-15.17.52:368][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.28-15.17.52:368][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.28-15.17.52:368][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.28-15.17.52:368][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.28-15.17.52:392][  0]LogNetVersion: Aedion 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2038587026)
+[2018.11.28-15.17.53:086][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.198529 seconds
+[2018.11.28-15.17.53:098][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.28-15.17.53:098][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.28-15.17.53:098][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.28-15.17.54:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.28-15.17.54:300][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.28-15.17.54:508][  0]SourceControl: Source control is disabled
+[2018.11.28-15.17.54:508][  0]SourceControl: Source control is disabled
+[2018.11.28-15.17.54:516][  0]SourceControl: Source control is disabled
+[2018.11.28-15.17.54:519][  0]SourceControl: Source control is disabled
+[2018.11.28-15.17.54:791][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.28-15.17.54:986][  0]LogOcInput: OculusInput pre-init called
+[2018.11.28-15.17.55:021][  0]LogSceneFusion: [INFO;SceneFusion] Scene Fusion Client: 2.0.2
+[2018.11.28-15.17.55:021][  0]LogSceneFusion: [INFO;Root] C:/Users/pijel/AppData/Local/UnrealEngine/4.20/Saved/
+[2018.11.28-15.17.55:028][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/LockMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:060][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/Material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:068][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/camera.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:074][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/head.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:084][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/hmd.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:091][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:098][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/oculus_l.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:104][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/oculus_r.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:111][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/CameraModels/vive_low_poly.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:120][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/StandIns/QuestionMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:129][  0]LogLinker: Warning: Asset 'F:/Aedion Studio/AedionGame/Aedion/Plugins/SceneFusion/Content/StandIns/QuestionMask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.28-15.17.55:152][  0]LogSceneFusion: [INFO;sfUI] Scene Fusion intializing UI.
+[2018.11.28-15.17.56:106][  0]LogEngine: Initializing Engine...
+[2018.11.28-15.17.56:286][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.28-15.17.56:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-15.17.56:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-15.17.56:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-15.17.56:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-15.17.56:571][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.28-15.17.56:592][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.28-15.17.56:650][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.28-15.17.56:869][  0]LogInit: FAudioDevice initialized.
+[2018.11.28-15.17.56:869][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.28-15.17.57:033][  0]LogDerivedDataCache: Saved boot cache 0.16s 72MB C:/Users/pijel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-15.17.57:043][  0]LogInit: Texture streaming: Enabled
+[2018.11.28-15.17.57:072][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.28-15.17.57:101][  0]LogInit: Transaction tracking system initialized
+[2018.11.28-15.17.57:142][  0]BlueprintLog: New page: Editor Load
+[2018.11.28-15.17.57:308][  0]LocalizationService: Localization service is disabled
+[2018.11.28-15.17.57:764][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.28-15.17.57:764][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.28-15.17.57:764][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.28-15.17.57:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-15.17.57:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-15.17.57:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-15.17.57:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-15.17.58:023][  0]LogFileCache: Scanning file cache for directory 'F:/Aedion Studio/AedionGame/Aedion/Content/' took 0.02s
+[2018.11.28-15.17.58:024][  0]SourceControl: Source control is disabled
+[2018.11.28-15.17.58:024][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-15.17.58:024][  0]LightingResults: New page: Lighting Build
+[2018.11.28-15.17.58:028][  0]MapCheck: New page: Map Check
+[2018.11.28-15.17.58:028][  0]LightingResults: New page: Lighting Build
+[2018.11.28-15.17.58:374][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.28-15.17.58:384][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-15.17.58:413][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-15.17.58:530][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.384ms to complete.
+[2018.11.28-15.17.58:530][  0]LogFileHelpers: Loading map 'Template_Default' took 0.506
+[2018.11.28-15.17.58:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.17.58:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.17.58:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.17.58:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.17.58:706][  0]LogCollectionManager: Loaded 0 collections in 0.001235 seconds
+[2018.11.28-15.17.58:758][  0]LogFileCache: Scanning file cache for directory 'F:/Aedion Studio/AedionGame/Aedion/Saved/Collections/' took 0.01s
+[2018.11.28-15.17.58:758][  0]LogFileCache: Scanning file cache for directory 'F:/Aedion Studio/AedionGame/Aedion/Content/Developers/pijel/Collections/' took 0.01s
+[2018.11.28-15.17.58:758][  0]LogFileCache: Scanning file cache for directory 'F:/Aedion Studio/AedionGame/Aedion/Content/Collections/' took 0.01s
+[2018.11.28-15.17.58:758][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.28-15.17.58:771][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2581 classes and 609 folders.
+[2018.11.28-15.17.58:779][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.28-15.17.58:882][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.28-15.17.58:893][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.28-15.17.58:989][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.11.28-15.17.59:035][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.28-15.17.59:035][  0]LogLoad: (Engine Initialization) Total time: 14.27 seconds
+[2018.11.28-15.17.59:035][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.28-15.17.59:074][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.28-15.17.59:076][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.28-15.17.59:078][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.28-15.17.59:084][  0]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.28-15.17.59:247][  1]LogRenderer: Reallocating scene render targets to support 656x324 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-15.17.59:271][  1]LogAssetRegistry: Asset discovery search completed in 7.5325 seconds
+[2018.11.28-15.17.59:274][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.28-15.17.59:274][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000149 seconds (updated 0 objects)
+[2018.11.28-15.18.03:283][ 13]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-15.18.07:046][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.18.08:476][123]LogRenderer: Reallocating scene render targets to support 992x528 Format 10 NumSamples 1 (Frame:91).
+[2018.11.28-15.18.11:684][365]LogSceneFusion: [INFO;Root] C:/Users/pijel/AppData/Local/UnrealEngine/4.20/Saved/
+[2018.11.28-15.18.48:371][294]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.48:437][294]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.18.48:437][294]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.18.48:437][294]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.18.48:437][294]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-15.18.48:440][294]LogSlate: Took 0.000409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-15.18.48:450][294]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/OverworldMaterials/Dirt.Dirt
+[2018.11.28-15.18.48:453][294]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.50:649][294]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.50:678][294]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.18.50:682][294]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.50:748][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.28-15.18.50:909][294]LogSlate: Took 0.101620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.28-15.18.51:319][294]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-15.18.51:348][295]LogSlate: Took 0.018524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.28-15.18.51:519][303]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.18.51:654][310]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.18.52:138][332]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-15.18.52:319][340]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-15.18.52:740][362]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-15.18.52:778][364]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.28-15.18.53:238][390]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.28-15.18.53:272][392]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.28-15.18.53:540][410]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.18.53:650][417]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.18.54:320][460]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.18.54:364][463]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.18.54:570][477]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.18.54:786][491]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.18.54:871][497]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.18.55:135][514]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.18.55:260][522]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.18.55:379][530]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.18.55:539][540]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.18.55:703][550]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.18.56:040][570]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.18.56:186][580]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-15.18.56:196][581]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-15.18.56:318][590]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.56:356][590]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.28-15.18.56:375][590]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.18.56:667][604]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.18.56:824][613]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.18.56:877][616]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-15.18.57:009][624]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-15.18.57:070][627]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-15.18.57:179][635]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.28-15.18.57:207][637]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.28-15.18.57:324][645]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.28-15.18.57:372][648]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.18.57:428][652]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.18.57:470][655]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.18.57:617][666]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.18.57:782][676]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.57:818][676]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.28-15.18.57:918][679]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-15.18.58:076][688]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.18.58:258][699]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.18.58:449][711]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-15.18.58:455][711]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-15.18.58:455][711]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.18.58:494][711]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.28-15.18.58:526][711]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.28-15.18.58:549][712]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-15.18.58:731][724]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.18.58:999][742]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.18.59:060][746]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-15.18.59:237][758]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-15.18.59:374][767]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-15.18.59:475][774]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.28-15.18.59:489][775]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.28-15.18.59:706][788]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.28-15.18.59:726][789]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.18.59:785][793]LogMaterialEditor: Applying material Dirt
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.19.00:672][793]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.19.00:694][793]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.19.00:790][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-15.19.00:832][793]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.19.00:889][793]LogMaterial: Display: Missing cached shader map for material Dirt, compiling. 
+[2018.11.28-15.19.00:951][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dirt, compiling. 
+[2018.11.28-15.19.04:007][793]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.28-15.19.04:008][793]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.19.04:009][793]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.19.04:010][793]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.19.04:011][793]TextureStreamingBuild: Display: Compiling optional shaders took 3.069 seconds.
+[2018.11.28-15.19.04:152][797]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-15.19.08:691][ 92]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.19.09:536][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/OverworldMaterials/Dirt" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Materials/OverworldMaterials/Dirt.uasset" SILENT=true
+[2018.11.28-15.19.09:559][ 92]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Dirt57F4AA0D403CB733B5DA0BBAC51C68CE.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Materials/OverworldMaterials/Dirt.uasset'
+[2018.11.28-15.19.09:574][ 92]MaterialEditorStats: Base pass shader: 95 instructions
+[2018.11.28-15.19.09:574][ 92]MaterialEditorStats: Base pass shader with Surface Lightmap: 106 instructions
+[2018.11.28-15.19.09:574][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 163 instructions
+[2018.11.28-15.19.09:574][ 92]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.28-15.19.09:574][ 92]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.28-15.19.15:338][743]LogMaterial: Display: Missing cached shader map for material Snow, compiling. 
+[2018.11.28-15.19.15:362][743]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.19.15:362][743]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.19.15:362][743]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.19.15:362][743]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-15.19.15:362][743]LogStaticMesh: Building static mesh snow_models_Cube_2...
+[2018.11.28-15.19.15:417][743]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Overworld/snow_models_Cube_2.snow_models_Cube_2
+[2018.11.28-15.19.15:450][743]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Overworld/snow_models_Cube_2.snow_models_Cube_2
+[2018.11.28-15.19.16:210][744]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-15.19.19:943][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.19.20:021][955]LogSlate: Window 'snow_models_Cube_2' being destroyed
+[2018.11.28-15.19.20:030][955]LogSlate: Window 'snow_models_Cube_2' being destroyed
+[2018.11.28-15.19.27:429][650]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.19.27:691][674]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.19.31:809][ 66]Cmd: DELETE
+[2018.11.28-15.19.31:809][ 66]Cmd: ACTOR DELETE
+[2018.11.28-15.19.31:812][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.19.31:834][ 66]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.19.32:909][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.19.36:314][572]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Validating model...
+[2018.11.28-15.19.36:517][595]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Authenticating with server...
+[2018.11.28-15.19.37:150][667]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Connected to room. (86027:SceneFusion:SceneFusion)
+[2018.11.28-15.19.37:150][667]LogSceneFusion: [INFO;KS::SceneFusion2::sfService] Connected to server.
+[2018.11.28-15.19.46:020][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.19.46:164][689]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.19.46:374][711]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.19.49:927][ 41]Cmd: DELETE
+[2018.11.28-15.19.49:927][ 41]Cmd: ACTOR DELETE
+[2018.11.28-15.19.49:929][ 41]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.19.49:948][ 41]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.11.28-15.19.50:290][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.28-15.19.51:285][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.19.52:830][322]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.11.28-15.19.52:830][322]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.11.28-15.19.52:830][322]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.11.28-15.19.52:830][322]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.11.28-15.19.52:830][322]LogMaterial: Display: Missing cached shader map for material Bunny_Skin, compiling. 
+[2018.11.28-15.19.52:897][322]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.11.28-15.19.52:897][322]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.28-15.19.52:897][322]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.11.28-15.19.52:897][322]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.28-15.19.52:897][322]LogSkeletalMesh: Building Skeletal Mesh rabbit_character...
+[2018.11.28-15.19.52:909][322]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.28-15.19.52:909][322]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.28-15.19.52:909][322]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.28-15.19.52:909][322]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.19.52:909][322]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/PlayerModel/rabbit_character.rabbit_character
+[2018.11.28-15.19.52:925][322]LogMaterial: Display: Missing cached shader map for material Bunny_Fur, compiling. 
+[2018.11.28-15.19.54:035][322]LogAIModule: Creating AISystem for world Overworld
+[2018.11.28-15.19.54:051][322]LogAssetEditorManager: Opening Asset editor for World /Game/Overworld.Overworld
+[2018.11.28-15.19.55:370][322]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.19.55:378][322]Cmd: MAP LOAD FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-15.19.55:381][322]LightingResults: New page: Lighting Build
+[2018.11.28-15.19.55:382][322]LoadErrors: New page: Loading map: Overworld.umap
+[2018.11.28-15.19.55:383][322]LogSceneFusion: [INFO;sfLevelManager] World destroyed. Disconnect from server.
+[2018.11.28-15.19.55:383][322]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Disconnecting from room (86027:SceneFusion:SceneFusion)
+[2018.11.28-15.19.55:384][322]MapCheck: New page: Map Check
+[2018.11.28-15.19.55:384][322]LightingResults: New page: Lighting Build
+[2018.11.28-15.19.55:575][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-15.19.55:661][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-15.19.55:803][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 141.472ms to complete.
+[2018.11.28-15.19.55:803][322]LogFileHelpers: Loading map 'Overworld' took 0.426
+[2018.11.28-15.19.55:898][323]LogSceneFusion: [INFO;KS::SceneFusion2::sfService] Disconnected from server.
+[2018.11.28-15.19.57:780][489]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.11.28-15.19.59:626][670]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.28-15.20.00:092][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_4)
+[2018.11.28-15.20.02:066][832]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.28-15.20.02:343][854]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.28-15.20.02:858][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.20.03:505][929]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.28-15.20.05:251][ 10]LogStaticMesh: Building static mesh snow_models_Cube_24...
+[2018.11.28-15.20.05:315][ 10]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Overworld/snow_models_Cube_24.snow_models_Cube_24
+[2018.11.28-15.20.05:408][ 12]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.20.06:261][ 51]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.20.06:964][ 90]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.20.08:461][178]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-15.20.08:843][201]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.20.23:180][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_227)
+[2018.11.28-15.20.27:216][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.20.27:870][722]Cmd: DELETE
+[2018.11.28-15.20.27:870][722]Cmd: ACTOR DELETE
+[2018.11.28-15.20.27:875][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.20.27:896][722]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.28-15.20.28:281][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.20.39:949][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.20.42:291][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.20.43:513][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.20.44:513][825]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.20.44:637][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.20.44:885][825]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld122EED7E4776E0F805BF72AF644A763A.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.20.44:917][825]LogFileHelpers: Saving map 'Overworld' took 0.378
+[2018.11.28-15.20.50:372][223]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Validating model...
+[2018.11.28-15.20.50:562][237]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Authenticating with server...
+[2018.11.28-15.20.50:780][253]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Connected to room. (86027:SceneFusion:SceneFusion)
+[2018.11.28-15.20.50:784][253]LogSceneFusion: [INFO;KS::SceneFusion2::sfService] Connected to server.
+[2018.11.28-15.20.50:992][268]LightingResults: New page: Lighting Build
+[2018.11.28-15.20.51:004][268]MapCheck: New page: Map Check
+[2018.11.28-15.20.51:004][268]LightingResults: New page: Lighting Build
+[2018.11.28-15.20.51:028][268]LogAIModule: Creating AISystem for world Untitled
+[2018.11.28-15.20.51:088][268]LoadErrors: New page: New Map
+[2018.11.28-15.21.00:781][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.21.04:210][737]LogAIModule: Creating AISystem for world Overworld
+[2018.11.28-15.21.04:217][737]LogAssetEditorManager: Opening Asset editor for World /Game/Overworld.Overworld
+[2018.11.28-15.21.05:834][737]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.21.06:962][864]LogAssetEditorManager: Opening Asset editor for World /Game/Overworld.Overworld
+[2018.11.28-15.21.07:773][864]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.21.07:779][864]Cmd: MAP LOAD FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-15.21.07:780][864]LightingResults: New page: Lighting Build
+[2018.11.28-15.21.07:781][864]LoadErrors: New page: Loading map: Overworld.umap
+[2018.11.28-15.21.07:781][864]LogSceneFusion: [INFO;sfLevelManager] World destroyed. Disconnect from server.
+[2018.11.28-15.21.07:781][864]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Disconnecting from room (86027:SceneFusion:SceneFusion)
+[2018.11.28-15.21.07:782][864]MapCheck: New page: Map Check
+[2018.11.28-15.21.07:782][864]LightingResults: New page: Lighting Build
+[2018.11.28-15.21.07:894][864]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-15.21.07:948][864]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-15.21.08:044][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.95ms to complete.
+[2018.11.28-15.21.08:048][864]LogFileHelpers: Loading map 'Overworld' took 0.271
+[2018.11.28-15.21.08:109][865]LogSceneFusion: [INFO;KS::SceneFusion2::sfService] Disconnected from server.
+[2018.11.28-15.21.08:109][865]LogUObjectArray: Warning: Other object in slot
+[2018.11.28-15.21.09:720][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_227)
+[2018.11.28-15.21.12:440][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.21.14:274][263]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.21.15:541][355]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.21.24:614][943]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.21.31:075][428]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.21.31:412][441]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.21.50:811][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.21.50:873][ 76]LogStaticMesh: Building static mesh snow_models_Cube_25...
+[2018.11.28-15.21.50:909][ 76]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_25.snow_models_Cube_25
+[2018.11.28-15.21.51:004][ 81]LogActorFactory: Actor Factory created snow_models_Cube_25
+[2018.11.28-15.21.52:705][189]LogActorFactory: Actor Factory created snow_models_Cube_25
+[2018.11.28-15.21.58:127][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.22.02:559][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.22.21:693][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.22.27:316][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_263)
+[2018.11.28-15.22.31:801][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_265)
+[2018.11.28-15.22.45:196][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.22.46:397][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_266)
+[2018.11.28-15.22.49:114][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.22.50:110][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_268)
+[2018.11.28-15.22.52:543][666]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.23.04:864][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_260)
+[2018.11.28-15.23.05:325][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.23.05:595][667]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.23.05:901][687]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.23.07:722][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.23.08:367][871]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.23.10:872][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.23.11:224][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.23.11:512][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_271)
+[2018.11.28-15.23.17:618][610]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.23.17:955][624]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_260)
+[2018.11.28-15.23.18:187][633]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.23.18:438][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.23.18:751][670]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_271)
+[2018.11.28-15.23.19:064][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_272)
+[2018.11.28-15.23.24:263][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_260)
+[2018.11.28-15.23.24:650][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.23.24:940][102]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_272)
+[2018.11.28-15.23.28:770][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_275)
+[2018.11.28-15.23.29:090][421]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_271)
+[2018.11.28-15.23.29:337][433]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_272)
+[2018.11.28-15.23.29:607][449]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_278)
+[2018.11.28-15.23.36:234][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.23.37:270][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.23.38:276][121]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.23.38:398][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.23.38:665][121]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/OverworldACC95BF84A678512BE7876BAA89214AD.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.23.38:697][121]LogFileHelpers: Saving map 'Overworld' took 0.395
+[2018.11.28-15.24.04:133][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_270)
+[2018.11.28-15.24.06:252][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_269)
+[2018.11.28-15.24.07:851][762]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_268)
+[2018.11.28-15.24.09:579][871]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_267)
+[2018.11.28-15.24.11:721][ 14]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_265)
+[2018.11.28-15.24.13:863][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_266)
+[2018.11.28-15.24.14:205][170]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_265)
+[2018.11.28-15.24.18:904][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_270)
+[2018.11.28-15.24.20:981][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_269)
+[2018.11.28-15.24.23:222][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_268)
+[2018.11.28-15.24.24:932][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_267)
+[2018.11.28-15.24.26:788][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_265)
+[2018.11.28-15.24.28:287][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_266)
+[2018.11.28-15.24.31:556][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_264)
+[2018.11.28-15.24.33:993][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_262)
+[2018.11.28-15.24.36:073][579]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.24.56:841][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.24.59:809][430]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Validating model...
+[2018.11.28-15.24.59:999][446]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Authenticating with server...
+[2018.11.28-15.25.00:613][497]LogSceneFusion: [DEBUG;KS::Reactor::ksRoom] Connected to room. (86028:SceneFusion:SceneFusion)
+[2018.11.28-15.25.00:614][497]LogSceneFusion: [INFO;KS::SceneFusion2::sfService] Connected to server.
+[2018.11.28-15.25.00:709][501]LogSceneFusion: [DEBUG;KS::SceneFusion2::RPCManager] Compressed 614 RPC(s) from 75630 bytes to 7190 bytes.
+[2018.11.28-15.25.28:130][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_263)
+[2018.11.28-15.25.33:387][936]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.25.40:443][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.25.46:769][876]LogStaticMesh: Building static mesh snow_models_Cube_8...
+[2018.11.28-15.25.46:804][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-15.25.46:832][876]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Overworld/snow_models_Cube_8.snow_models_Cube_8
+[2018.11.28-15.26.00:846][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_270)
+[2018.11.28-15.26.01:205][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_268)
+[2018.11.28-15.26.01:851][909]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_269)
+[2018.11.28-15.26.02:167][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_267)
+[2018.11.28-15.26.02:463][936]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_265)
+[2018.11.28-15.26.02:689][945]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_266)
+[2018.11.28-15.26.02:997][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_264)
+[2018.11.28-15.26.03:302][972]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_263)
+[2018.11.28-15.26.03:570][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_262)
+[2018.11.28-15.26.04:180][ 16]Cmd: DELETE
+[2018.11.28-15.26.04:181][ 16]Cmd: ACTOR DELETE
+[2018.11.28-15.26.04:197][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:198][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:198][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:199][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:199][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:200][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:200][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:200][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:201][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.26.04:228][ 16]LogEditorActor: Deleted 9 Actors (0.047 secs)
+[2018.11.28-15.26.07:572][ 49]LogStaticMesh: Building static mesh Chunk...
+[2018.11.28-15.26.07:590][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-15.26.13:422][ 49]LogStaticMesh: Built static mesh [5.85s] /Game/Assets/Overworld/Chunk.Chunk
+[2018.11.28-15.26.15:311][ 50]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (snow_models_Cube_233)
+[2018.11.28-15.26.15:407][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-15.26.24:728][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.26.25:077][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chunk)
+[2018.11.28-15.27.01:536][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_257)
+[2018.11.28-15.27.13:436][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_276)
+[2018.11.28-15.27.19:270][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_202)
+[2018.11.28-15.27.22:113][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.27.22:176][404]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.28-15.27.22:193][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-15.27.22:207][404]PIE: New page: PIE session: Overworld (Nov 28, 2018, 5:27:22 PM)
+[2018.11.28-15.27.22:207][404]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Overworld
+[2018.11.28-15.27.22:221][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013363s)
+[2018.11.28-15.27.22:222][404]LogAIModule: Creating AISystem for world Overworld
+[2018.11.28-15.27.22:222][404]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.11.28-15.27.22:222][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Overworld.Overworld to /Game/UEDPIE_0_Overworld.Overworld (0.014378s)
+[2018.11.28-15.27.22:262][404]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.28-15.27.22:428][404]LogInit: FAudioDevice initialized.
+[2018.11.28-15.27.22:442][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.27.22:518][404]LogLoad: Game class is 'MyGamemode_C'
+[2018.11.28-15.27.22:531][404]LogWorld: Bringing World /Game/UEDPIE_0_Overworld.Overworld up for play (max tick rate 0) at 2018.11.28-16.27.22
+[2018.11.28-15.27.22:532][404]LogWorld: Bringing up level for play took: 0.012180
+[2018.11.28-15.27.22:552][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.28-15.27.22:561][404]PIE: Play in editor start time for /Game/UEDPIE_0_Overworld -0.313
+[2018.11.28-15.27.43:323][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.27.43:341][381]LogSlate: Window 'Aedion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-15.27.43:395][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-15.27.43:443][382]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.28-15.27.47:254][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_35)
+[2018.11.28-15.27.48:749][787]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_46)
+[2018.11.28-15.27.49:019][798]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_47)
+[2018.11.28-15.27.49:349][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_48)
+[2018.11.28-15.27.49:631][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_59)
+[2018.11.28-15.27.49:922][836]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_58)
+[2018.11.28-15.27.50:217][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_57)
+[2018.11.28-15.27.50:557][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_68)
+[2018.11.28-15.27.50:964][883]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_69)
+[2018.11.28-15.27.51:200][892]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_70)
+[2018.11.28-15.27.51:536][906]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_81)
+[2018.11.28-15.27.51:788][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_80)
+[2018.11.28-15.27.52:067][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_79)
+[2018.11.28-15.27.52:338][937]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_90)
+[2018.11.28-15.27.52:603][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_91)
+[2018.11.28-15.27.52:866][956]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_92)
+[2018.11.28-15.27.54:104][ 28]Cmd: DELETE
+[2018.11.28-15.27.54:104][ 28]Cmd: ACTOR DELETE
+[2018.11.28-15.27.54:115][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:116][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:116][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:116][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:116][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:117][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:117][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:117][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:118][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:118][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:118][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:119][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:119][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:119][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:119][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:120][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.27.54:140][ 28]LogEditorActor: Deleted 16 Actors (0.035 secs)
+[2018.11.28-15.27.57:652][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_5)
+[2018.11.28-15.27.58:029][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_6)
+[2018.11.28-15.28.00:601][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.28.01:528][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:529][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:529][523]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.11.28-15.28.01:530][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:531][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:531][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:532][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:532][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:533][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:533][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.01:534][523]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2018.11.28-15.28.04:198][523]LogSlate: Window 'Message' being destroyed
+[2018.11.28-15.28.04:202][523]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.28-15.28.04:205][523]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.11.28-15.28.04:206][523]LogEditorActor: Deleted Actor: SkyLight
+[2018.11.28-15.28.04:207][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:207][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:208][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:209][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:210][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:211][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:211][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:212][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:212][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.04:266][523]LogEditorActor: Deleted 22 Actors (2.746 secs)
+[2018.11.28-15.28.04:857][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.28.07:958][818]Cmd: TRANSACTION UNDO
+[2018.11.28-15.28.07:958][818]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.28-15.28.10:477][ 35]Cmd: TRANSACTION UNDO
+[2018.11.28-15.28.10:477][ 35]LogEditorTransaction: Undo Delete selection
+[2018.11.28-15.28.12:389][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.28.26:803][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:804][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:804][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:805][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:806][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:807][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:808][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:809][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:811][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:812][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:812][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:813][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:814][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:815][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:815][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:815][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:816][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:816][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:817][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:817][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:817][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:818][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:818][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:818][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:819][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:819][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:819][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:819][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:820][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:820][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:820][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:821][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:821][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:821][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:822][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:822][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:822][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:823][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:823][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:823][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:823][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:824][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:824][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:824][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:825][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:825][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.26:846][437]LogEditorActor: Deleted 46 Actors (0.052 secs)
+[2018.11.28-15.28.28:828][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_72)
+[2018.11.28-15.28.29:125][642]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_73)
+[2018.11.28-15.28.29:387][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_74)
+[2018.11.28-15.28.29:704][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_75)
+[2018.11.28-15.28.30:276][715]Cmd: DELETE
+[2018.11.28-15.28.30:276][715]Cmd: ACTOR DELETE
+[2018.11.28-15.28.30:280][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.30:280][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.30:281][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.30:281][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.30:297][715]LogEditorActor: Deleted 4 Actors (0.021 secs)
+[2018.11.28-15.28.31:523][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_156)
+[2018.11.28-15.28.31:855][850]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_157)
+[2018.11.28-15.28.32:100][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_158)
+[2018.11.28-15.28.32:378][881]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_148)
+[2018.11.28-15.28.32:591][895]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_149)
+[2018.11.28-15.28.33:137][939]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_151)
+[2018.11.28-15.28.33:509][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_152)
+[2018.11.28-15.28.33:873][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_153)
+[2018.11.28-15.28.34:476][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_155)
+[2018.11.28-15.28.35:134][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_150)
+[2018.11.28-15.28.36:008][168]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_154)
+[2018.11.28-15.28.36:458][203]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_153)
+[2018.11.28-15.28.37:133][263]Cmd: DELETE
+[2018.11.28-15.28.37:133][263]Cmd: ACTOR DELETE
+[2018.11.28-15.28.37:137][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:138][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:138][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:138][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:139][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:139][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:139][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:140][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:140][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:140][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:140][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.28.37:164][263]LogEditorActor: Deleted 11 Actors (0.031 secs)
+[2018.11.28-15.28.39:276][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chunk)
+[2018.11.28-15.28.48:922][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.29.01:053][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.29.01:756][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.29.16:211][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.29.16:296][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.29.16:385][ 47]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld8EDF9F5645DEDB0FF2C777A740D11A6A.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.29.16:417][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld_BuiltData" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld_BuiltData.uasset" SILENT=true
+[2018.11.28-15.29.16:901][ 47]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld_BuiltData6AF415974B9B86E28747CDBA35105D63.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld_BuiltData.uasset'
+[2018.11.28-15.29.22:963][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_271)
+[2018.11.28-15.29.23:509][685]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.29.23:778][697]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.29.24:051][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_272)
+[2018.11.28-15.29.45:951][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.29.57:577][586]LogStaticMesh: Building static mesh snow_models_Cube_22...
+[2018.11.28-15.29.57:611][586]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Overworld/snow_models_Cube_22.snow_models_Cube_22
+[2018.11.28-15.29.57:725][593]LogActorFactory: Actor Factory created snow_models_Cube_22
+[2018.11.28-15.29.58:257][635]LogActorFactory: Actor Factory created snow_models_Cube_22
+[2018.11.28-15.29.59:279][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.29.59:327][712]LogStaticMesh: Building static mesh snow_models_Cube_21...
+[2018.11.28-15.29.59:367][712]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_21.snow_models_Cube_21
+[2018.11.28-15.29.59:452][717]LogActorFactory: Actor Factory created snow_models_Cube_21
+[2018.11.28-15.29.59:826][750]LogActorFactory: Actor Factory created snow_models_Cube_21
+[2018.11.28-15.30.01:186][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_22)
+[2018.11.28-15.30.04:294][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.30.04:333][150]LogStaticMesh: Building static mesh snow_models_Cube_20...
+[2018.11.28-15.30.04:372][150]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_20.snow_models_Cube_20
+[2018.11.28-15.30.04:453][154]LogActorFactory: Actor Factory created snow_models_Cube_20
+[2018.11.28-15.30.05:086][193]LogActorFactory: Actor Factory created snow_models_Cube_20
+[2018.11.28-15.30.11:359][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.30.11:421][682]LogStaticMesh: Building static mesh snow_models_Cube_28...
+[2018.11.28-15.30.11:459][682]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_28.snow_models_Cube_28
+[2018.11.28-15.30.11:555][688]LogActorFactory: Actor Factory created snow_models_Cube_28
+[2018.11.28-15.30.12:447][771]LogActorFactory: Actor Factory created snow_models_Cube_28
+[2018.11.28-15.30.13:269][814]Cmd: DELETE
+[2018.11.28-15.30.13:269][814]Cmd: ACTOR DELETE
+[2018.11.28-15.30.13:271][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.30.13:293][814]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.30.16:856][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.30.16:904][  3]LogStaticMesh: Building static mesh snow_models_Cube_37...
+[2018.11.28-15.30.16:948][  3]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_37.snow_models_Cube_37
+[2018.11.28-15.30.17:082][ 14]LogActorFactory: Actor Factory created snow_models_Cube_37
+[2018.11.28-15.30.17:760][ 76]LogActorFactory: Actor Factory created snow_models_Cube_37
+[2018.11.28-15.30.18:726][161]Cmd: DELETE
+[2018.11.28-15.30.18:726][161]Cmd: ACTOR DELETE
+[2018.11.28-15.30.18:728][161]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.30.18:749][161]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.11.28-15.30.31:598][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.30.31:659][373]LogStaticMesh: Building static mesh snow_models_Cube_51...
+[2018.11.28-15.30.31:692][373]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Overworld/snow_models_Cube_51.snow_models_Cube_51
+[2018.11.28-15.30.31:871][390]LogActorFactory: Actor Factory created snow_models_Cube_51
+[2018.11.28-15.30.32:577][452]LogActorFactory: Actor Factory created snow_models_Cube_51
+[2018.11.28-15.30.39:138][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.30.50:537][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.30.50:664][870]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.30.52:894][ 55]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.30.56:936][378]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.30.58:938][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_20)
+[2018.11.28-15.31.00:629][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_21)
+[2018.11.28-15.31.02:054][788]Cmd: DELETE
+[2018.11.28-15.31.02:055][788]Cmd: ACTOR DELETE
+[2018.11.28-15.31.02:057][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.02:076][788]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.31.02:274][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_22)
+[2018.11.28-15.31.02:413][817]Cmd: DELETE
+[2018.11.28-15.31.02:413][817]Cmd: ACTOR DELETE
+[2018.11.28-15.31.02:415][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.02:432][817]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.11.28-15.31.04:078][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_51)
+[2018.11.28-15.31.04:402][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_52)
+[2018.11.28-15.31.04:722][ 20]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_53)
+[2018.11.28-15.31.05:028][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_24)
+[2018.11.28-15.31.17:883][ 34]Cmd: DELETE
+[2018.11.28-15.31.17:883][ 34]Cmd: ACTOR DELETE
+[2018.11.28-15.31.17:886][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.17:887][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.17:887][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.17:887][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.17:906][ 34]LogEditorActor: Deleted 4 Actors (0.023 secs)
+[2018.11.28-15.31.18:899][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.31.19:083][132]LogActorFactory: Actor Factory created snow_models_Cube_21
+[2018.11.28-15.31.20:436][274]LogActorFactory: Actor Factory created snow_models_Cube_21
+[2018.11.28-15.31.30:465][175]Cmd: DELETE
+[2018.11.28-15.31.30:465][175]Cmd: ACTOR DELETE
+[2018.11.28-15.31.30:467][175]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.30:487][175]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.31.32:769][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.31.32:859][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.31.32:930][415]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld636AF1A64D4A9267B74AA9BA54DDEAE3.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.31.32:964][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld_BuiltData" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld_BuiltData.uasset" SILENT=true
+[2018.11.28-15.31.33:265][415]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld_BuiltDataCC4F55574DFF6972D5C0BC9E7192A9D9.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld_BuiltData.uasset'
+[2018.11.28-15.31.40:546][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.31.40:614][186]LogStaticMesh: Building static mesh snow_models_Cube_27...
+[2018.11.28-15.31.40:657][186]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_27.snow_models_Cube_27
+[2018.11.28-15.31.40:730][190]LogActorFactory: Actor Factory created snow_models_Cube_27
+[2018.11.28-15.31.41:409][260]LogActorFactory: Actor Factory created snow_models_Cube_27
+[2018.11.28-15.31.43:132][404]Cmd: DELETE
+[2018.11.28-15.31.43:132][404]Cmd: ACTOR DELETE
+[2018.11.28-15.31.43:134][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.31.43:155][404]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.31.46:993][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.31.47:115][822]LogActorFactory: Actor Factory created snow_models_Cube_8
+[2018.11.28-15.31.48:936][ 12]LogActorFactory: Actor Factory created snow_models_Cube_8
+[2018.11.28-15.31.56:171][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.31.56:219][632]LogStaticMesh: Building static mesh snow_models_Cube_6...
+[2018.11.28-15.31.56:260][632]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_6.snow_models_Cube_6
+[2018.11.28-15.31.56:301][633]LogActorFactory: Actor Factory created snow_models_Cube_6
+[2018.11.28-15.31.57:609][751]LogActorFactory: Actor Factory created snow_models_Cube_6
+[2018.11.28-15.31.59:854][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_8)
+[2018.11.28-15.32.00:414][ 11]Cmd: DELETE
+[2018.11.28-15.32.00:414][ 11]Cmd: ACTOR DELETE
+[2018.11.28-15.32.00:417][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.32.00:438][ 11]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.11.28-15.32.00:619][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_6)
+[2018.11.28-15.32.02:512][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.32.02:661][159]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.32.03:863][266]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.32.15:559][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_3)
+[2018.11.28-15.32.15:822][312]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_2)
+[2018.11.28-15.32.16:086][330]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_6)
+[2018.11.28-15.32.21:312][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_3)
+[2018.11.28-15.32.29:269][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_7)
+[2018.11.28-15.32.29:589][517]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_8)
+[2018.11.28-15.32.30:008][550]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_5)
+[2018.11.28-15.32.30:350][577]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_3)
+[2018.11.28-15.32.30:550][590]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_4)
+[2018.11.28-15.32.30:877][613]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_6)
+[2018.11.28-15.32.39:612][378]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.32.41:013][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_6)
+[2018.11.28-15.32.59:197][958]LogLinker: Warning: Can't find file '/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane'
+[2018.11.28-15.32.59:197][958]LogLinker: Warning: Can't find file '/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane'
+[2018.11.28-15.32.59:197][958]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane.CalmLargePlane'
+[2018.11.28-15.32.59:197][958]LogSceneFusion: Warning: [WARNING;sfLoader] Could not find StaticMesh '/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane.CalmLargePlane'. Creating stand-in object.
+[2018.11.28-15.32.59:217][958]LogStaticMesh: Building static mesh Missing_StaticMesh+/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane+CalmLargePlane...
+[2018.11.28-15.32.59:232][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-15.32.59:245][958]LogStaticMesh: Built static mesh [0.03s] /Game/Overworld.Overworld:Missing_StaticMesh+/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane+CalmLargePlane
+[2018.11.28-15.32.59:252][958]LogLinker: Warning: Can't find file '/Game/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane'
+[2018.11.28-15.32.59:252][958]LogLinker: Warning: Can't find file '/Game/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane'
+[2018.11.28-15.32.59:252][958]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane.DenseLargePlane'
+[2018.11.28-15.32.59:252][958]LogSceneFusion: Warning: [WARNING;sfLoader] Could not find StaticMesh '/Game/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane.DenseLargePlane'. Creating stand-in object.
+[2018.11.28-15.32.59:253][958]LogStaticMesh: Building static mesh Missing_StaticMesh+/Game/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane+DenseLargePlane...
+[2018.11.28-15.32.59:274][958]LogStaticMesh: Built static mesh [0.02s] /Game/Overworld.Overworld:Missing_StaticMesh+/Game/LowPolyWater/Meshes/WaterPlane/Dense/DenseLargePlane+DenseLargePlane
+[2018.11.28-15.32.59:281][958]LogLinker: Warning: Can't find file '/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane'
+[2018.11.28-15.32.59:281][958]LogLinker: Warning: Can't find file '/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane'
+[2018.11.28-15.32.59:281][958]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane.CalmMediumPlane'
+[2018.11.28-15.32.59:281][958]LogSceneFusion: Warning: [WARNING;sfLoader] Could not find StaticMesh '/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane.CalmMediumPlane'. Creating stand-in object.
+[2018.11.28-15.32.59:282][958]LogStaticMesh: Building static mesh Missing_StaticMesh+/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane+CalmMediumPlane...
+[2018.11.28-15.32.59:300][958]LogStaticMesh: Built static mesh [0.02s] /Game/Overworld.Overworld:Missing_StaticMesh+/Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmMediumPlane+CalmMediumPlane
+[2018.11.28-15.33.03:824][184]LogStaticMesh: Building static mesh snow_models_Cube_26...
+[2018.11.28-15.33.03:867][184]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_26.snow_models_Cube_26
+[2018.11.28-15.33.03:932][187]LogActorFactory: Actor Factory created snow_models_Cube_26
+[2018.11.28-15.33.04:851][258]LogActorFactory: Actor Factory created snow_models_Cube_26
+[2018.11.28-15.33.07:943][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.33.08:118][443]LogActorFactory: Actor Factory created snow_models_Cube_8
+[2018.11.28-15.33.09:219][526]LogActorFactory: Actor Factory created snow_models_Cube_8
+[2018.11.28-15.33.10:220][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_26)
+[2018.11.28-15.33.10:724][665]Cmd: DELETE
+[2018.11.28-15.33.10:725][665]Cmd: ACTOR DELETE
+[2018.11.28-15.33.10:727][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.33.10:744][665]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.11.28-15.33.13:924][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_16)
+[2018.11.28-15.33.48:380][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_18)
+[2018.11.28-15.34.09:837][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_16)
+[2018.11.28-15.34.10:540][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_6)
+[2018.11.28-15.34.27:162][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_15)
+[2018.11.28-15.34.29:816][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_24)
+[2018.11.28-15.34.31:356][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chunk6)
+[2018.11.28-15.34.31:448][938]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.28-15.34.31:981][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_34)
+[2018.11.28-15.34.37:691][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_26)
+[2018.11.28-15.34.38:060][467]Cmd: DELETE
+[2018.11.28-15.34.38:060][467]Cmd: ACTOR DELETE
+[2018.11.28-15.34.38:063][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.34.38:085][467]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.34.38:491][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_35)
+[2018.11.28-15.34.41:867][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_35)
+[2018.11.28-15.34.48:478][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_4)
+[2018.11.28-15.34.49:103][403]Cmd: DELETE
+[2018.11.28-15.34.49:103][403]Cmd: ACTOR DELETE
+[2018.11.28-15.34.49:108][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.34.49:126][403]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.34.53:681][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.35.05:062][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_18)
+[2018.11.28-15.35.13:193][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_42)
+[2018.11.28-15.35.14:897][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_26)
+[2018.11.28-15.35.22:049][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_10)
+[2018.11.28-15.35.22:505][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_16)
+[2018.11.28-15.35.27:931][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.35.30:049][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_23)
+[2018.11.28-15.35.36:053][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_22)
+[2018.11.28-15.35.36:771][435]Cmd: DELETE
+[2018.11.28-15.35.36:771][435]Cmd: ACTOR DELETE
+[2018.11.28-15.35.36:774][435]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.35.36:795][435]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.11.28-15.35.38:566][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_21)
+[2018.11.28-15.35.39:232][646]Cmd: DELETE
+[2018.11.28-15.35.39:232][646]Cmd: ACTOR DELETE
+[2018.11.28-15.35.39:234][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.35.39:258][646]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.28-15.35.44:907][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.35.46:683][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_13)
+[2018.11.28-15.36.06:813][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_2)
+[2018.11.28-15.36.07:292][321]Cmd: DELETE
+[2018.11.28-15.36.07:292][321]Cmd: ACTOR DELETE
+[2018.11.28-15.36.07:296][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.07:319][321]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.28-15.36.08:118][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chunk6)
+[2018.11.28-15.36.21:293][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_281)
+[2018.11.28-15.36.25:282][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_271)
+[2018.11.28-15.36.25:656][957]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_259)
+[2018.11.28-15.36.25:917][969]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_261)
+[2018.11.28-15.36.26:160][985]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_272)
+[2018.11.28-15.36.29:569][275]Cmd: DELETE
+[2018.11.28-15.36.29:569][275]Cmd: ACTOR DELETE
+[2018.11.28-15.36.29:572][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.29:572][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.29:572][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.29:573][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.29:592][275]LogEditorActor: Deleted 4 Actors (0.023 secs)
+[2018.11.28-15.36.29:884][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_280)
+[2018.11.28-15.36.30:043][307]Cmd: DELETE
+[2018.11.28-15.36.30:043][307]Cmd: ACTOR DELETE
+[2018.11.28-15.36.30:045][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.30:068][307]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.36.30:301][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_282)
+[2018.11.28-15.36.30:412][335]Cmd: DELETE
+[2018.11.28-15.36.30:412][335]Cmd: ACTOR DELETE
+[2018.11.28-15.36.30:414][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.30:439][335]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.11.28-15.36.30:641][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_278)
+[2018.11.28-15.36.30:732][360]Cmd: DELETE
+[2018.11.28-15.36.30:732][360]Cmd: ACTOR DELETE
+[2018.11.28-15.36.30:734][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.30:754][360]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.36.30:969][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_277)
+[2018.11.28-15.36.31:131][393]Cmd: DELETE
+[2018.11.28-15.36.31:131][393]Cmd: ACTOR DELETE
+[2018.11.28-15.36.31:135][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.31:154][393]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.11.28-15.36.31:346][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_276)
+[2018.11.28-15.36.31:439][417]Cmd: DELETE
+[2018.11.28-15.36.31:439][417]Cmd: ACTOR DELETE
+[2018.11.28-15.36.31:441][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.31:461][417]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.36.31:638][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_260)
+[2018.11.28-15.36.31:717][438]Cmd: DELETE
+[2018.11.28-15.36.31:717][438]Cmd: ACTOR DELETE
+[2018.11.28-15.36.31:720][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.31:744][438]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.11.28-15.36.31:919][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_258)
+[2018.11.28-15.36.32:127][470]Cmd: DELETE
+[2018.11.28-15.36.32:127][470]Cmd: ACTOR DELETE
+[2018.11.28-15.36.32:130][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.32:149][470]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.28-15.36.32:331][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_273)
+[2018.11.28-15.36.32:447][496]Cmd: DELETE
+[2018.11.28-15.36.32:447][496]Cmd: ACTOR DELETE
+[2018.11.28-15.36.32:450][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.32:473][496]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.36.32:613][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_274)
+[2018.11.28-15.36.32:740][517]Cmd: DELETE
+[2018.11.28-15.36.32:740][517]Cmd: ACTOR DELETE
+[2018.11.28-15.36.32:743][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.32:764][517]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.11.28-15.36.32:952][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_275)
+[2018.11.28-15.36.33:129][545]Cmd: DELETE
+[2018.11.28-15.36.33:129][545]Cmd: ACTOR DELETE
+[2018.11.28-15.36.33:134][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.33:154][545]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.11.28-15.36.33:312][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_281)
+[2018.11.28-15.36.33:480][572]Cmd: DELETE
+[2018.11.28-15.36.33:480][572]Cmd: ACTOR DELETE
+[2018.11.28-15.36.33:482][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.33:500][572]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.11.28-15.36.33:712][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_279)
+[2018.11.28-15.36.33:803][598]Cmd: DELETE
+[2018.11.28-15.36.33:803][598]Cmd: ACTOR DELETE
+[2018.11.28-15.36.33:807][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.33:834][598]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.11.28-15.36.38:167][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.36.38:271][ 54]LogActorFactory: Actor Factory created snow_models_Cube_8
+[2018.11.28-15.36.40:415][290]LogActorFactory: Actor Factory created snow_models_Cube_8
+[2018.11.28-15.36.47:593][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.36.47:626][863]LogStaticMesh: Building static mesh snow_models_Cube_7...
+[2018.11.28-15.36.47:666][863]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_7.snow_models_Cube_7
+[2018.11.28-15.36.47:766][869]LogActorFactory: Actor Factory created snow_models_Cube_7
+[2018.11.28-15.36.49:773][ 57]LogSceneFusion: Warning: [WARNING;sfPropertyUtil] Could not find property OverrideMaterials on SceneComponent
+[2018.11.28-15.36.49:774][ 57]LogActorFactory: Actor Factory created snow_models_Cube_7
+[2018.11.28-15.36.58:133][753]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_21)
+[2018.11.28-15.36.58:749][804]Cmd: DELETE
+[2018.11.28-15.36.58:749][804]Cmd: ACTOR DELETE
+[2018.11.28-15.36.58:754][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.58:755][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.36.58:776][804]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2018.11.28-15.37.04:224][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.37.04:327][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.37.04:427][403]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld6384AF5A44A5B1C537DBFA91E29F4AAA.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.37.04:461][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld_BuiltData" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld_BuiltData.uasset" SILENT=true
+[2018.11.28-15.37.04:832][403]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld_BuiltData7253726043620D0862952184CEC53F0D.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld_BuiltData.uasset'
+[2018.11.28-15.37.18:880][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.37.19:033][930]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.37.20:889][122]LogActorFactory: Actor Factory created snow_models_Cube_24
+[2018.11.28-15.37.32:448][ 81]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_50)
+[2018.11.28-15.37.32:733][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_51)
+[2018.11.28-15.37.32:978][105]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_52)
+[2018.11.28-15.37.37:023][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_56)
+[2018.11.28-15.37.37:386][471]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_55)
+[2018.11.28-15.37.47:332][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_58)
+[2018.11.28-15.37.50:844][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.37.50:998][619]LogActorFactory: Actor Factory created snow_models_Cube_26
+[2018.11.28-15.37.52:311][722]LogActorFactory: Actor Factory created snow_models_Cube_26
+[2018.11.28-15.37.53:237][790]Cmd: DELETE
+[2018.11.28-15.37.53:237][790]Cmd: ACTOR DELETE
+[2018.11.28-15.37.53:242][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.37.53:267][790]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.11.28-15.37.53:505][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.37.53:652][814]LogActorFactory: Actor Factory created snow_models_Cube_27
+[2018.11.28-15.37.54:240][871]LogActorFactory: Actor Factory created snow_models_Cube_27
+[2018.11.28-15.37.55:136][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.37.55:332][941]LogActorFactory: Actor Factory created snow_models_Cube_26
+[2018.11.28-15.37.55:833][976]LogActorFactory: Actor Factory created snow_models_Cube_26
+[2018.11.28-15.37.57:889][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_62)
+[2018.11.28-15.38.04:094][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.04:355][684]LogActorFactory: Actor Factory created snow_models_Cube_28
+[2018.11.28-15.38.05:184][746]LogActorFactory: Actor Factory created snow_models_Cube_28
+[2018.11.28-15.38.06:339][847]Cmd: DELETE
+[2018.11.28-15.38.06:339][847]Cmd: ACTOR DELETE
+[2018.11.28-15.38.06:345][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.38.06:363][847]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.11.28-15.38.09:664][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.09:727][ 18]LogStaticMesh: Building static mesh snow_models_Cube_16...
+[2018.11.28-15.38.09:766][ 18]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_16.snow_models_Cube_16
+[2018.11.28-15.38.09:844][ 22]LogActorFactory: Actor Factory created snow_models_Cube_16
+[2018.11.28-15.38.11:626][208]LogActorFactory: Actor Factory created snow_models_Cube_16
+[2018.11.28-15.38.12:219][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.12:274][238]LogStaticMesh: Building static mesh snow_models_Cube_15...
+[2018.11.28-15.38.12:314][238]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_15.snow_models_Cube_15
+[2018.11.28-15.38.12:414][244]LogActorFactory: Actor Factory created snow_models_Cube_15
+[2018.11.28-15.38.13:705][332]LogActorFactory: Actor Factory created snow_models_Cube_15
+[2018.11.28-15.38.19:590][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.19:639][790]LogStaticMesh: Building static mesh snow_models_Cube_13...
+[2018.11.28-15.38.19:678][790]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_13.snow_models_Cube_13
+[2018.11.28-15.38.19:761][795]LogActorFactory: Actor Factory created snow_models_Cube_13
+[2018.11.28-15.38.20:104][821]LogActorFactory: Actor Factory created snow_models_Cube_13
+[2018.11.28-15.38.21:616][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.21:667][920]LogStaticMesh: Building static mesh snow_models_Cube_12...
+[2018.11.28-15.38.21:706][920]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_12.snow_models_Cube_12
+[2018.11.28-15.38.21:755][921]LogActorFactory: Actor Factory created snow_models_Cube_12
+[2018.11.28-15.38.23:077][ 15]LogActorFactory: Actor Factory created snow_models_Cube_12
+[2018.11.28-15.38.23:997][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.24:026][ 73]LogStaticMesh: Building static mesh snow_models_Cube_10...
+[2018.11.28-15.38.24:066][ 73]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_10.snow_models_Cube_10
+[2018.11.28-15.38.24:117][ 74]LogActorFactory: Actor Factory created snow_models_Cube_10
+[2018.11.28-15.38.25:015][145]LogActorFactory: Actor Factory created snow_models_Cube_10
+[2018.11.28-15.38.25:826][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.25:839][188]LogStaticMesh: Building static mesh snow_models_Cube_9...
+[2018.11.28-15.38.25:884][188]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_9.snow_models_Cube_9
+[2018.11.28-15.38.25:947][191]LogActorFactory: Actor Factory created snow_models_Cube_9
+[2018.11.28-15.38.27:163][281]LogActorFactory: Actor Factory created snow_models_Cube_9
+[2018.11.28-15.38.28:057][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.28:108][332]LogStaticMesh: Building static mesh snow_models_Cube_4...
+[2018.11.28-15.38.28:150][332]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube_4.snow_models_Cube_4
+[2018.11.28-15.38.28:202][334]LogActorFactory: Actor Factory created snow_models_Cube_4
+[2018.11.28-15.38.29:054][395]LogActorFactory: Actor Factory created snow_models_Cube_4
+[2018.11.28-15.38.32:590][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.32:622][635]LogStaticMesh: Building static mesh snow_models_Cube_3...
+[2018.11.28-15.38.32:670][635]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Overworld/snow_models_Cube_3.snow_models_Cube_3
+[2018.11.28-15.38.32:728][637]LogActorFactory: Actor Factory created snow_models_Cube_3
+[2018.11.28-15.38.34:189][745]LogActorFactory: Actor Factory created snow_models_Cube_3
+[2018.11.28-15.38.35:155][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.35:281][806]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.38.36:413][888]LogActorFactory: Actor Factory created snow_models_Cube_2
+[2018.11.28-15.38.38:232][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.38.38:266][987]LogStaticMesh: Building static mesh snow_models_Cube...
+[2018.11.28-15.38.38:306][987]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Overworld/snow_models_Cube.snow_models_Cube
+[2018.11.28-15.38.38:359][989]LogActorFactory: Actor Factory created snow_models_Cube
+[2018.11.28-15.38.39:208][ 52]LogActorFactory: Actor Factory created snow_models_Cube
+[2018.11.28-15.38.39:852][105]Cmd: DELETE
+[2018.11.28-15.38.39:852][105]Cmd: ACTOR DELETE
+[2018.11.28-15.38.39:855][105]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.38.39:877][105]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.38.47:603][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_2)
+[2018.11.28-15.38.47:926][966]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_67)
+[2018.11.28-15.38.53:650][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_56)
+[2018.11.28-15.38.54:003][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.38.58:931][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_62)
+[2018.11.28-15.39.05:180][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.39.11:117][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.39.27:931][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_63)
+[2018.11.28-15.39.43:004][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.39.51:171][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_70)
+[2018.11.28-15.39.56:980][925]LogSceneFusion: Warning: [WARNING;sfUtils] Cannot rename object to snow_models_Cube_74 because another object with that name already exists.
+[2018.11.28-15.40.03:534][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.40.06:323][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_71)
+[2018.11.28-15.40.12:480][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_72)
+[2018.11.28-15.40.16:820][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_63)
+[2018.11.28-15.40.18:906][806]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.40.22:825][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_2)
+[2018.11.28-15.40.35:913][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.40.41:215][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_69)
+[2018.11.28-15.40.42:836][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_22)
+[2018.11.28-15.40.44:196][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_21)
+[2018.11.28-15.41.00:097][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_67)
+[2018.11.28-15.41.10:661][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_67)
+[2018.11.28-15.41.29:469][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_77)
+[2018.11.28-15.41.42:095][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_72)
+[2018.11.28-15.41.42:725][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.41.44:746][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_72)
+[2018.11.28-15.41.46:050][300]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.41.46:398][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_74)
+[2018.11.28-15.41.57:412][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_79)
+[2018.11.28-15.42.00:213][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_74)
+[2018.11.28-15.42.07:273][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_79)
+[2018.11.28-15.42.11:877][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_91)
+[2018.11.28-15.42.16:761][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_93)
+[2018.11.28-15.42.28:613][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_96)
+[2018.11.28-15.42.35:552][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_80)
+[2018.11.28-15.42.38:221][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_98)
+[2018.11.28-15.42.40:297][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_97)
+[2018.11.28-15.42.46:753][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_71)
+[2018.11.28-15.42.49:556][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_78)
+[2018.11.28-15.42.50:282][952]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_79)
+[2018.11.28-15.42.50:627][977]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_63)
+[2018.11.28-15.42.51:683][ 61]LogSceneFusion: Warning: [WARNING;sfUtils] Cannot rename object to snow_models_Cube_104 because another object with that name already exists.
+[2018.11.28-15.42.56:847][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_106)
+[2018.11.28-15.43.02:599][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_105)
+[2018.11.28-15.43.09:757][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_88)
+[2018.11.28-15.43.10:354][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_84)
+[2018.11.28-15.43.11:370][650]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_82)
+[2018.11.28-15.43.27:877][136]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.43.29:203][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_58)
+[2018.11.28-15.43.30:083][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chunk2)
+[2018.11.28-15.43.38:766][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_98)
+[2018.11.28-15.43.39:532][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_91)
+[2018.11.28-15.43.43:526][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_111)
+[2018.11.28-15.43.53:599][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_72)
+[2018.11.28-15.43.57:922][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_97)
+[2018.11.28-15.44.06:875][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_110)
+[2018.11.28-15.44.09:287][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_98)
+[2018.11.28-15.44.12:726][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.28-15.44.17:258][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.44.25:446][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_13)
+[2018.11.28-15.44.25:756][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_81)
+[2018.11.28-15.44.26:450][774]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_82)
+[2018.11.28-15.44.26:777][797]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_83)
+[2018.11.28-15.44.27:087][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_84)
+[2018.11.28-15.44.27:445][843]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_12)
+[2018.11.28-15.44.27:997][886]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_87)
+[2018.11.28-15.44.28:690][935]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_90)
+[2018.11.28-15.44.29:009][958]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_77)
+[2018.11.28-15.44.29:317][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_71)
+[2018.11.28-15.44.29:606][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_78)
+[2018.11.28-15.44.29:908][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_79)
+[2018.11.28-15.44.30:272][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_63)
+[2018.11.28-15.44.30:846][ 93]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_94)
+[2018.11.28-15.44.31:213][119]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_72)
+[2018.11.28-15.44.31:593][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_2)
+[2018.11.28-15.44.31:978][173]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_37)
+[2018.11.28-15.44.32:522][216]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_100)
+[2018.11.28-15.44.32:872][241]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_87)
+[2018.11.28-15.44.48:413][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_134)
+[2018.11.28-15.44.55:377][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_133)
+[2018.11.28-15.44.56:299][160]LogSceneFusion: Warning: [WARNING;sfUtils] Cannot rename object to snow_models_Cube_142 because another object with that name already exists.
+[2018.11.28-15.45.02:865][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_103)
+[2018.11.28-15.45.03:261][765]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_100)
+[2018.11.28-15.45.04:040][830]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_99)
+[2018.11.28-15.45.04:399][854]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_117)
+[2018.11.28-15.45.05:181][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_87)
+[2018.11.28-15.45.05:903][978]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_90)
+[2018.11.28-15.45.06:364][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_116)
+[2018.11.28-15.45.16:952][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_125)
+[2018.11.28-15.45.20:055][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_127)
+[2018.11.28-15.45.20:845][214]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_126)
+[2018.11.28-15.45.21:117][231]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_125)
+[2018.11.28-15.45.21:427][255]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_140)
+[2018.11.28-15.45.21:714][275]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_128)
+[2018.11.28-15.45.22:315][321]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_131)
+[2018.11.28-15.45.22:652][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_130)
+[2018.11.28-15.45.31:744][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.45.45:024][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.46.06:607][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_158)
+[2018.11.28-15.46.20:233][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_134)
+[2018.11.28-15.46.24:885][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_133)
+[2018.11.28-15.46.28:058][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_169)
+[2018.11.28-15.46.29:415][996]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_170)
+[2018.11.28-15.46.33:020][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_169)
+[2018.11.28-15.46.37:819][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_170)
+[2018.11.28-15.46.45:972][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_171)
+[2018.11.28-15.46.47:296][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_150)
+[2018.11.28-15.46.47:842][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_147)
+[2018.11.28-15.46.48:918][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_171)
+[2018.11.28-15.46.49:227][606]Cmd: DELETE
+[2018.11.28-15.46.49:227][606]Cmd: ACTOR DELETE
+[2018.11.28-15.46.49:232][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.46.49:256][606]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.11.28-15.46.49:428][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_147)
+[2018.11.28-15.46.52:200][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_133)
+[2018.11.28-15.46.54:362][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_130)
+[2018.11.28-15.47.05:204][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_186)
+[2018.11.28-15.47.05:525][948]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_184)
+[2018.11.28-15.47.05:756][962]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_157)
+[2018.11.28-15.47.06:484][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_185)
+[2018.11.28-15.47.06:862][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_188)
+[2018.11.28-15.47.07:577][105]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_187)
+[2018.11.28-15.47.15:072][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_207)
+[2018.11.28-15.47.18:250][989]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_209)
+[2018.11.28-15.47.18:585][  4]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_210)
+[2018.11.28-15.47.21:437][246]Cmd: DELETE
+[2018.11.28-15.47.21:437][246]Cmd: ACTOR DELETE
+[2018.11.28-15.47.21:442][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.47.21:443][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.47.21:443][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.47.21:463][246]LogEditorActor: Deleted 3 Actors (0.026 secs)
+[2018.11.28-15.47.25:244][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_211)
+[2018.11.28-15.47.25:570][553]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_208)
+[2018.11.28-15.47.27:956][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_187)
+[2018.11.28-15.47.31:441][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_188)
+[2018.11.28-15.47.32:645][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_162)
+[2018.11.28-15.47.33:002][164]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_172)
+[2018.11.28-15.47.33:481][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_161)
+[2018.11.28-15.47.46:412][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_220)
+[2018.11.28-15.47.52:299][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_128)
+[2018.11.28-15.47.55:076][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_221)
+[2018.11.28-15.47.55:643][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_207)
+[2018.11.28-15.47.56:914][168]LogSceneFusion: Warning: [WARNING;sfUtils] Cannot rename object to snow_models_Cube_223 because another object with that name already exists.
+[2018.11.28-15.47.58:223][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_215)
+[2018.11.28-15.48.04:606][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_223)
+[2018.11.28-15.48.13:069][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_168)
+[2018.11.28-15.48.18:113][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_146)
+[2018.11.28-15.48.21:299][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_233)
+[2018.11.28-15.48.21:390][254]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.28-15.48.22:007][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_234)
+[2018.11.28-15.48.25:847][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_158)
+[2018.11.28-15.48.40:938][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_206)
+[2018.11.28-15.48.43:723][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_183)
+[2018.11.28-15.48.55:884][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_206)
+[2018.11.28-15.48.59:569][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_208)
+[2018.11.28-15.49.30:951][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_191)
+[2018.11.28-15.49.31:939][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_175)
+[2018.11.28-15.49.32:249][318]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_190)
+[2018.11.28-15.49.32:689][351]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_180)
+[2018.11.28-15.49.39:302][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_254)
+[2018.11.28-15.49.39:962][976]Cmd: DELETE
+[2018.11.28-15.49.39:963][976]Cmd: ACTOR DELETE
+[2018.11.28-15.49.39:968][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.49.39:987][976]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.49.40:349][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_253)
+[2018.11.28-15.49.40:540][ 28]Cmd: DELETE
+[2018.11.28-15.49.40:540][ 28]Cmd: ACTOR DELETE
+[2018.11.28-15.49.40:547][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.49.40:566][ 28]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.11.28-15.49.41:925][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_256)
+[2018.11.28-15.49.42:363][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (snow_models_Cube_255)
+[2018.11.28-15.49.47:141][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_114)
+[2018.11.28-15.49.58:788][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_221)
+[2018.11.28-15.50.06:944][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_202)
+[2018.11.28-15.50.10:810][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_255)
+[2018.11.28-15.50.14:275][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_269)
+[2018.11.28-15.50.14:589][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_254)
+[2018.11.28-15.50.15:151][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_269)
+[2018.11.28-15.50.30:489][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_255)
+[2018.11.28-15.50.44:247][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_275)
+[2018.11.28-15.50.51:619][967]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.11.28-15.50.56:368][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.50.57:963][308]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.50.58:093][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.50.58:382][308]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/Overworld136BB3354A345F27183DDEAAF1AA606B.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.50.58:423][308]LogFileHelpers: Saving map 'Overworld' took 0.435
+[2018.11.28-15.51.04:833][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.51.04:886][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.28-15.51.04:902][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-15.51.04:902][795]PIE: New page: PIE session: Overworld (Nov 28, 2018, 5:51:04 PM)
+[2018.11.28-15.51.04:902][795]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Overworld
+[2018.11.28-15.51.04:914][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012037s)
+[2018.11.28-15.51.04:916][795]LogAIModule: Creating AISystem for world Overworld
+[2018.11.28-15.51.04:916][795]LogPlayLevel: PIE: World Init took: (0.001560s)
+[2018.11.28-15.51.04:916][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Overworld.Overworld to /Game/UEDPIE_0_Overworld.Overworld (0.013862s)
+[2018.11.28-15.51.04:954][795]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.28-15.51.05:111][795]LogInit: FAudioDevice initialized.
+[2018.11.28-15.51.05:127][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.51.05:188][795]LogLoad: Game class is 'MyGamemode_C'
+[2018.11.28-15.51.05:203][795]LogWorld: Bringing World /Game/UEDPIE_0_Overworld.Overworld up for play (max tick rate 0) at 2018.11.28-16.51.05
+[2018.11.28-15.51.05:203][795]LogWorld: Bringing up level for play took: 0.014504
+[2018.11.28-15.51.05:223][795]PIE: Play in editor start time for /Game/UEDPIE_0_Overworld 0.349
+[2018.11.28-15.51.21:680][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.51.21:698][295]LogSlate: Window 'Aedion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-15.51.21:746][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-15.51.21:802][296]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.28-15.51.25:778][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_269)
+[2018.11.28-15.51.27:840][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.52.06:596][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.52.18:375][375]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2018.11.28-15.52.18:379][375]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.18:452][375]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.18:467][375]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.18:490][375]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.18:490][375]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.18:490][375]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.18:490][375]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.19:602][399]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.52.19:663][400]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.52.19:689][401]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.52.19:689][401]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.52.19:889][408]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.52.19:921][409]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.19:953][410]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.52.19:953][410]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-15.52.20:129][416]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-15.52.20:317][421]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.28-15.52.20:514][427]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.28-15.52.20:547][428]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.28-15.52.20:719][433]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.28-15.52.20:882][437]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.28-15.52.20:912][438]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.28-15.52.21:149][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-15.52.21:176][446]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-15.52.21:988][480]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.22:002][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.28-15.52.22:071][481]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.22:071][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.22:071][481]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.22:072][481]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.22:430][491]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.22:467][492]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.22:510][493]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.52.22:544][494]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.52.22:751][500]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.52.22:785][501]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.52.22:787][501]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.52.22:787][501]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.22:999][507]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.52.23:203][511]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-15.52.23:393][518]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-15.52.23:423][519]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.28-15.52.23:460][520]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.23:490][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.28-15.52.23:594][521]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.23:791][527]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.23:791][527]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.23:989][533]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.24:216][538]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.24:216][538]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.24:288][540]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.52.24:570][547]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.52.24:570][547]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.52.24:689][550]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.52.24:723][551]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.52.24:797][553]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.24:900][556]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.52.25:199][564]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.25:224][564]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.25:230][564]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.28-15.52.25:403][568]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.25:403][568]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.25:609][574]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.25:788][579]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.25:817][580]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.25:817][580]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.25:916][583]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.52.26:042][587]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.52.26:070][588]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.52.26:073][588]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.52.26:177][591]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.52.26:179][591]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.26:206][591]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.26:206][591]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.28-15.52.26:298][593]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.26:774][605]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.26:806][606]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.26:840][607]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.26:881][608]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.26:910][608]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.28-15.52.26:940][608]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.28-15.52.27:019][610]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.27:221][616]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.27:255][617]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.27:286][618]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.27:489][624]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.27:619][628]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.27:619][628]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.52.27:652][629]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.52.27:766][632]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.52.27:907][636]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.52.27:908][636]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.52.27:941][637]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.28:076][641]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.52.28:167][644]LogMaterialEditor: Applying material NewMaterial
+[2018.11.28-15.52.29:006][644]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-15.52.29:006][644]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-15.52.29:006][644]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.28-15.52.29:006][644]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.28-15.52.29:006][644]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.28-15.52.29:006][644]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.28-15.52.29:028][644]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.29:102][644]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.29:111][644]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.29:123][644]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.29:153][644]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.29:211][644]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.31:037][644]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.31:042][644]TextureStreamingBuild: Display: Compiling optional shaders took 1.839 seconds.
+[2018.11.28-15.52.31:068][644]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-15.52.34:941][767]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.11.28-15.52.34:941][767]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.11.28-15.52.34:941][767]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.28-15.52.34:941][767]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.28-15.52.36:129][821]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.36:143][821]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.36:158][821]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.36:213][822]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.36:213][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.36:213][822]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-15.52.36:213][822]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-15.52.36:521][829]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-15.52.36:521][829]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-15.52.36:524][829]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-15.52.36:554][830]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-15.52.36:798][837]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-15.52.36:864][839]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.36:864][839]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-15.52.36:895][840]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-15.52.37:080][845]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-15.52.37:347][852]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.28-15.52.37:418][854]LogMaterialEditor: Applying material NewMaterial
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-15.52.38:273][854]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-15.52.38:299][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.38:374][854]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-15.52.38:374][854]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-15.52.38:408][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.38:442][854]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.11.28-15.52.38:501][854]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-15.52.40:247][854]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-15.52.40:248][854]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-15.52.40:255][854]TextureStreamingBuild: Display: Compiling optional shaders took 1.762 seconds.
+[2018.11.28-15.52.43:929][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (snow_models_Cube_59)
+[2018.11.28-15.52.44:151][979]MaterialEditorStats: Base pass shader: 94 instructions
+[2018.11.28-15.52.44:151][979]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 162 instructions
+[2018.11.28-15.52.44:151][979]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.28-15.52.44:151][979]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.28-15.52.50:163][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.52.50:227][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.28-15.52.50:240][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-15.52.50:240][437]PIE: New page: PIE session: Overworld (Nov 28, 2018, 5:52:50 PM)
+[2018.11.28-15.52.50:240][437]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Overworld
+[2018.11.28-15.52.50:254][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013607s)
+[2018.11.28-15.52.50:255][437]LogAIModule: Creating AISystem for world Overworld
+[2018.11.28-15.52.50:255][437]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.11.28-15.52.50:255][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Overworld.Overworld to /Game/UEDPIE_0_Overworld.Overworld (0.014618s)
+[2018.11.28-15.52.50:292][437]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.28-15.52.50:442][437]LogInit: FAudioDevice initialized.
+[2018.11.28-15.52.50:459][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.52.50:518][437]LogLoad: Game class is 'MyGamemode_C'
+[2018.11.28-15.52.50:533][437]LogWorld: Bringing World /Game/UEDPIE_0_Overworld.Overworld up for play (max tick rate 0) at 2018.11.28-16.52.50
+[2018.11.28-15.52.50:533][437]LogWorld: Bringing up level for play took: 0.013415
+[2018.11.28-15.52.50:556][437]PIE: Play in editor start time for /Game/UEDPIE_0_Overworld -0.318
+[2018.11.28-15.53.09:108][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.53.09:124][930]LogSlate: Window 'Aedion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-15.53.09:168][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-15.53.09:217][931]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.28-15.53.13:897][385]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (snow_models_Cube_212)
+[2018.11.28-15.53.14:762][456]Cmd: DELETE
+[2018.11.28-15.53.14:762][456]Cmd: ACTOR DELETE
+[2018.11.28-15.53.14:768][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.28-15.53.14:792][456]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.11.28-15.53.17:719][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.53.17:780][719]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.28-15.53.17:798][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-15.53.17:798][719]PIE: New page: PIE session: Overworld (Nov 28, 2018, 5:53:17 PM)
+[2018.11.28-15.53.17:798][719]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Overworld
+[2018.11.28-15.53.17:810][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012000s)
+[2018.11.28-15.53.17:811][719]LogAIModule: Creating AISystem for world Overworld
+[2018.11.28-15.53.17:811][719]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.11.28-15.53.17:811][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Overworld.Overworld to /Game/UEDPIE_0_Overworld.Overworld (0.012925s)
+[2018.11.28-15.53.17:853][719]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.28-15.53.18:004][719]LogInit: FAudioDevice initialized.
+[2018.11.28-15.53.18:021][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.53.18:081][719]LogLoad: Game class is 'MyGamemode_C'
+[2018.11.28-15.53.18:099][719]LogWorld: Bringing World /Game/UEDPIE_0_Overworld.Overworld up for play (max tick rate 0) at 2018.11.28-16.53.18
+[2018.11.28-15.53.18:099][719]LogWorld: Bringing up level for play took: 0.016846
+[2018.11.28-15.53.18:124][719]PIE: Play in editor start time for /Game/UEDPIE_0_Overworld 1.25
+[2018.11.28-15.54.07:629][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-15.54.07:648][802]LogSlate: Window 'Aedion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-15.54.07:698][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-15.54.07:747][803]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.28-15.54.10:557][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-15.54.11:547][ 45]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-15.54.11:595][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/NewMaterial.uasset" SILENT=true
+[2018.11.28-15.54.11:618][ 45]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/NewMaterialCAE395254AB89999BF0FCE9196C0B210.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/NewMaterial.uasset'
+[2018.11.28-15.54.11:727][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Overworld" FILE="F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.28-15.54.12:027][ 45]LogSavePackage: Moving 'F:/Aedion Studio/AedionGame/Aedion/Saved/OverworldD0F7EBA74F18EFE6655159B8F8C092CA.tmp' to 'F:/Aedion Studio/AedionGame/Aedion/Content/Overworld.umap'
+[2018.11.28-15.54.12:061][ 45]LogFileHelpers: Saving map 'Overworld' took 0.435
